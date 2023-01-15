@@ -14,9 +14,10 @@
 5.cd TOOLS-INSTALLER 
 
 6.python TOOLS.py 
-
+<br>
+<br>
 <p align="center">DOWNLOAD PASSWORD</p>
-<a href="https://sfile.mobi/1kHCay8jiEu7">KLIK LINK UNTUK MENDOWNLOAD PASSWORD LOGIN</a>
+<a href="https://sfile.mobi/1kHCay8jiEu7" align="center">KLIK LINK UNTUK MENDOWNLOAD PASSWORD LOGIN</a>
 <br>
 <br>
 <p align="center">FOTO SCRIPT🗿</p>
